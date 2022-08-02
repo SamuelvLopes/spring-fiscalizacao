@@ -1,10 +1,10 @@
-package br.com.pratics.fiscal;
+package br.com.pratics.fiscalizacao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FiscalApplicationTests {
+class FiscalizacaoApplicationTests {
 
 	@Test
 	void contextLoads() {

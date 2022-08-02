@@ -9,15 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.pratics</groupId>
-	<artifactId>fiscal</artifactId>
+	<artifactId>fiscalizacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fiscal</name>
-	<description>fiscalização</description>
+	<name>fiscalizacao</name>
+	<description>fiscalização do dudu</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-	<dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
